@@ -1,5 +1,6 @@
 name: "Torrent-Download-Plugin"
 guid: "004fdaa1-d059-4b97-b35f-b3768681b934"
+imageUrl: "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgreep.fr%2Fimg%2Fjellyfin.png&f=1&nofb=1&ipt=1cae2d3c1cd47b6fcc1b4236b9083900b92df8347b6aa7acc6ab347ca99fad5b"
 version: "1.0.0.0"
 targetAbi: "10.9.0.0"
 framework: "net8.0"
