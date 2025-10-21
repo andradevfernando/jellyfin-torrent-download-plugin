@@ -30,7 +30,7 @@ public class Plugin : BasePlugin<PluginConfiguration>, IHasWebPages
     }
 
     /// <inheritdoc />
-    public override string Name => "Template";
+    public override string Name => "Torrent-Download";
 
     /// <inheritdoc />
     public override Guid Id => Guid.Parse("9ee0f52e-6acb-4ae5-b82e-3201f7db963e");
