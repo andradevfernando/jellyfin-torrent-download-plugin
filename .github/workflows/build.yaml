@@ -14,7 +14,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  call:
-    #uses: jellyfin/jellyfin-meta-plugins/.github/workflows/build.yaml@master
-  - name: jprm-build
-    uses: oddstr13/jellyfin-plugin-repository-manager@v1.1.1
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: jprm-build
+        uses: oddstr13/jellyfin-plugin-repository-manager@v1.1.1
