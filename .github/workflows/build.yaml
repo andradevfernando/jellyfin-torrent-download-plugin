@@ -14,5 +14,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  call:
-    uses: oddstr13/jellyfin-plugin-repository-manager@v1.1.1
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: jprm-build
+        uses: oddstr13/jellyfin-plugin-repository-manager@v1.1.1
