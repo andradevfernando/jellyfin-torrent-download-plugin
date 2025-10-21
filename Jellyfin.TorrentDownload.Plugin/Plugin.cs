@@ -33,7 +33,7 @@ public class Plugin : BasePlugin<PluginConfiguration>, IHasWebPages
     public override string Name => "Torrent-Download";
 
     /// <inheritdoc />
-    public override Guid Id => Guid.Parse("9ee0f52e-6acb-4ae5-b82e-3201f7db963e");
+    public override Guid Id => Guid.Parse("004fdaa1-d059-4b97-b35f-b3768681b934");
 
     /// <summary>
     /// Gets the current plugin instance.

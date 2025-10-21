@@ -1,7 +1,7 @@
 [
     {
         "category": "Metadata",
-        "guid": "9ee0f52e-6acb-4ae5-b82e-3201f7db963e",
+        "guid": "004fdaa1-d059-4b97-b35f-b3768681b934",
         "name": "Torrent-Download",
         "description": "This plugin supports several different metadata providers and options for organizing your collection.",
         "owner": "jellyfin",
@@ -11,7 +11,7 @@
                 "checksum": "ad6db5175f4732308b5dd166f79a1c2d",
                 "changelog": "bug fixes and improvements",
                 "targetAbi": "0.0.0.1",
-                "sourceUrl": "https://repo.jellyfin.org/releases/other/whats-this-plugin.zip",
+                "sourceUrl": "https://repo.jellyfin.org/releases/other/torrent-download-plugin.zip",
                 "timestamp": "2020-03-27 06:02:58",
                 "version": "1.0.3.0"
             }
