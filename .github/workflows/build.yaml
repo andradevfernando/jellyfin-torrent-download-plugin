@@ -15,5 +15,4 @@ on:
 
 jobs:
   call:
-    - name: jprm-build
-      uses: oddstr13/jellyfin-plugin-repository-manager@v1.1.1
+    uses: oddstr13/jellyfin-plugin-repository-manager@v1.1.1
