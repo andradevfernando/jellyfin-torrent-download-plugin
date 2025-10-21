@@ -15,4 +15,6 @@ on:
 
 jobs:
   call:
-    uses: jellyfin/jellyfin-meta-plugins/.github/workflows/build.yaml@master
+    #uses: jellyfin/jellyfin-meta-plugins/.github/workflows/build.yaml@master
+  - name: jprm-build
+    uses: oddstr13/jellyfin-plugin-repository-manager@v1.1.1
